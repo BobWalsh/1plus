@@ -1,5 +1,35 @@
 # 🎉 Jumpstart Pro Rails
 
+1PlusTheRest.com
+-Productivity App
+an app that let you the developer, spend as little time as needed marketing yourself.
+a rails app that makes it easy to *capture what you accomplished as developer each day*.
+organize and summarize those ***Captures into Resume Entries***
+Let's you build resume entries and select which entries you want to create a resume of.
+build other files like weekly progress reports, Monthly learning reports.
+features:
+can output files used internally to report Weekly Results
+Can output full resumes with summaries for less important jobs.
+can output position summaries. with or without company names.
+solves three problems:
+keeping a daily log of what you accomplished.
+sharing that log in a variety of ways up to a full comprehensive resume
+Include working through acccomplishments relevant to your worklife
+Generate resumes that focus on particular topics and summarize the resest in popular formats.
+interface:
+easily capturing what you accomplished each day.
+surfaces:
+Chrome extension
+Terminal
+web app
+iOS application
+Resume builder - any out there that are universal
+Problem to solve
+how to hand ongoing work against a particular ticket
+summarizing work to report on
+defining different versions of what you have done,
+
+
 Welcome! To get started, clone the repository and push it to a new repository.
 
 ## Requirements
