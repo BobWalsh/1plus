@@ -1,0 +1,17 @@
+---
+application_name: 1plustherest.com
+business_name: 47hats, LLC.
+business_address: 6935 Heather Glen Dr, Reno, NV 89523
+domain: example.com
+support_email: bob.walsh@47hats.com
+default_from_email: My App <no-reply@example.com>
+background_job_processor: async
+email_provider: 
+personal_accounts: true
+apns: false
+fcm: false
+integrations:
+omniauth_providers:
+payment_processors:
+multitenancy:
+gems:
